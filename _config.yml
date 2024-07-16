@@ -22,21 +22,21 @@ repository               : "https://rajmadanmath.github.io/home/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rajmadan Lakshmanan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Mathematician"
+  location         : "Chemnitz, Germany"
+  employer         : "Technical University of Chemnitz"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rajmadan.lakshmanan@math.tu-chemnitz.de" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/?query=rajmadan+Lakshmanan&searchtype=all&source=header"# URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=TuYWRncAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0006-3273-9063"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
